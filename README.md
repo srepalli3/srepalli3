@@ -34,8 +34,11 @@ Motivated and results-driven final-year Computer Science student with a strong f
 
 ## Certifications
 PCEP Certified (Entry Level Python Programmer) | January 2023
+
 AWS Certified Cloud Practitioner | January 2024
+
 AWS Certified Solutions Architect | December 2024
+
 AWS Certified AI Practitioner | January 2025
 
 ## What I'm Up To
