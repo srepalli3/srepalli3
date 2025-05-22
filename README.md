@@ -1,7 +1,7 @@
 # Hi! I'm Swetha
 
 ## Summary: 
-Motivated and results-driven final-year Computer Science student with a strong foundation in software development, algorithms, and data structures. Adept at using programming languages such as Python, R and C++, with foundational experience in web development, machine learning, and database management. Proven ability to collaborate in team settings, having contributed to multiple academic, professional and personal projects. Eager to apply problem-solving skills, technical expertise, and passion for technology in a challenging internship or entry-level role within the tech industry. Strong communicator with a focus on continuous learning and personal growth.
+Motivated and results-driven Computer Science graduate with a strong foundation in software development, algorithms, and data structures. Adept at using programming languages such as Python, R and C++, with foundational experience in web development, machine learning, and database management. Proven ability to collaborate in team settings, having contributed to multiple academic, professional and personal projects. Eager to apply problem-solving skills, technical expertise, and passion for technology in a challenging internship or entry-level role within the tech industry. Strong communicator with a focus on continuous learning and personal growth.
 
 ## Experiences:
 ### Informatics Environment Operations Intern
@@ -43,8 +43,8 @@ AWS Certified AI Practitioner | January 2025
 
 ## What I'm Up To
 - Currently studying for the AWS Certified Machine Learning Engineer certification exam on the path to become an AI/ML Engineer
-- Continuing on work on my Open Source with SLU project, MeltShiny
-- Starting work on a new project: developing a 2D platformer game with user-generated content capabilities
+- Continuing to work on my Open Source with SLU project, MeltShiny, as an advisor to the next team
+- Completing work on a project: developing a 2D platformer game with user-generated content capabilities
 
 ## 🔗 Connect With Me!
 www.linkedin.com/in/swetharepalli
